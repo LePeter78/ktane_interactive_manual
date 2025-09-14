@@ -1,0 +1,14 @@
+D:\saját\vs projects\ktane\ktane\bin\Debug\net8.0\ktane.exe
+D:\saját\vs projects\ktane\ktane\bin\Debug\net8.0\ktane.deps.json
+D:\saját\vs projects\ktane\ktane\bin\Debug\net8.0\ktane.runtimeconfig.json
+D:\saját\vs projects\ktane\ktane\bin\Debug\net8.0\ktane.dll
+D:\saját\vs projects\ktane\ktane\bin\Debug\net8.0\ktane.pdb
+D:\saját\vs projects\ktane\ktane\obj\Debug\net8.0\ktane.GeneratedMSBuildEditorConfig.editorconfig
+D:\saját\vs projects\ktane\ktane\obj\Debug\net8.0\ktane.AssemblyInfoInputs.cache
+D:\saját\vs projects\ktane\ktane\obj\Debug\net8.0\ktane.AssemblyInfo.cs
+D:\saját\vs projects\ktane\ktane\obj\Debug\net8.0\ktane.csproj.CoreCompileInputs.cache
+D:\saját\vs projects\ktane\ktane\obj\Debug\net8.0\ktane.dll
+D:\saját\vs projects\ktane\ktane\obj\Debug\net8.0\refint\ktane.dll
+D:\saját\vs projects\ktane\ktane\obj\Debug\net8.0\ktane.pdb
+D:\saját\vs projects\ktane\ktane\obj\Debug\net8.0\ktane.genruntimeconfig.cache
+D:\saját\vs projects\ktane\ktane\obj\Debug\net8.0\ref\ktane.dll
